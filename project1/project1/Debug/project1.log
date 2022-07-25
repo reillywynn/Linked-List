@@ -1,0 +1,34 @@
+﻿  leaker.cpp
+  project1.cpp
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(15,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(33): message : see reference to class template instantiation 'LinkedList<T>' being compiled
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(15,1): warning C4183: 'Linkedlist': missing return type; assumed to be a member function returning 'int'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(36,1): error C2244: 'LinkedList<T>::LinkedList': unable to match function definition to an existing declaration
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(36): message : see declaration of 'LinkedList<T>::LinkedList'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(36,1): message : definition
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(36,1): message : 'LinkedList<T>::LinkedList(void)'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(36,1): message : existing declarations
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(36,1): message : 'LinkedList<T>::LinkedList(const LinkedList<T> &)'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,50): error C2143: syntax error: missing ';' before 'LinkedList<T>::AddHead'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,30): error C2182: 'Node': illegal use of type 'void'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,30): error C2371: 'LinkedList<T>::Node': redefinition; different basic types
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(9): message : see declaration of 'LinkedList<T>::Node'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,1): error C2513: 'LinkedList<T>::Node': no variable declared before '='
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,65): error C2988: unrecognizable template declaration/definition
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,65): error C2143: syntax error: missing ',' before '*'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,73): error C2511: 'int LinkedList<T>::AddHead(const int)': overloaded member function not found in 'LinkedList<T>'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(51,73): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,50): error C2143: syntax error: missing ';' before 'LinkedList<T>::Addtail'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,30): error C2182: 'Node': illegal use of type 'void'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,30): error C2371: 'LinkedList<T>::Node': redefinition; different basic types
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(9): message : see declaration of 'LinkedList<T>::Node'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,1): error C2513: 'LinkedList<T>::Node': no variable declared before '='
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,50): warning C4346: 'LinkedList<T>::Addtail': dependent name is not a type
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,50): message : prefix with 'typename' to indicate a type
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,65): error C2988: unrecognizable template declaration/definition
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,65): error C2143: syntax error: missing ',' before '*'
+C:\Users\wynnr\source\repos\project1\project1\LinkedList.h(56,73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
